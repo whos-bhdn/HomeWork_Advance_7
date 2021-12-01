@@ -1,0 +1,21 @@
+form{
+    display: flex;
+    flex-direction: column;
+    margin: 75px;
+}
+h2{
+    text-align: center;
+}
+
+.disabled{
+    display: none;
+}
+
+#innerBlock{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
